@@ -1,0 +1,40 @@
+  h1{
+    color:#FFA500;
+  }
+
+  p{
+    color:#880088;
+  }
+
+  *{
+    border:solid;
+  }
+
+  .header{
+      background-color: #5F9EA0;
+      display:flex;
+      justify-content:space-between;
+  }
+
+  .grid{
+      display:flex;
+      flex-wrap:wrap;
+      justify-content:space-evenly;
+  }
+
+  .footer{
+      display:flex;
+      justify-content:flex-end;
+  }
+
+  h2,p{
+      text-align:center;
+      font-style:italic;
+      color:#AAAA65;
+  }
+
+  body{
+    background-color:#808080;
+  }
+
+  
